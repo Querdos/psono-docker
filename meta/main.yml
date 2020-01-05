@@ -1,0 +1,19 @@
+galaxy_info:
+  author: querdos
+  description: Allow automated management of a PSONO instance (server, admin + web client)
+
+  # If the issue tracker for your role is not on github, uncomment the
+  # next line and provide a value
+  # issue_tracker_url: http://example.com/issue/tracker
+
+  license: GPL-3.0
+
+  min_ansible_version: 2.9
+
+  galaxy_tags: 
+    - ansible
+    - psono
+    - password-manager
+    - automation
+
+dependencies: []
